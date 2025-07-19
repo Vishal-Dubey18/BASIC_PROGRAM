@@ -5,7 +5,7 @@ EMAIL_CONFIG = {
     'smtp_server': 'smtp.gmail.com',
     'smtp_port': 465,
     'sender_email': 'vdubey8511@gmail.com',
-    'sender_password': 'nogcmdrmgvgcrkik',  # Use the EXACT App Password
+    'sender_password': 'YOURPASS',  # Use the EXACT App Password
     'recipient_email': 'vdubey8511@gmail.com'
 }
 
